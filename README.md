@@ -30,11 +30,6 @@ For Software:
 - [Storage: LocalStorage (to remember how much you’ve suffered)]
 
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
@@ -58,37 +53,16 @@ soul meter goes 0 and gives final advice before vanishing
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screen%20Recording%202025-08-02%20060117.mp4]
 working of the therapist chat bot
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Thomas Varghese]: [back end coding ]
+- [Midhun Mathew]: [front end coding]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
