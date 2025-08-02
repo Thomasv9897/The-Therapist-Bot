@@ -47,9 +47,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot1](https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screenshot%202025-08-02%20053909.png)
+Interface of the chat bot
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
