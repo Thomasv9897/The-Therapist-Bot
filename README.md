@@ -1,34 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Dr. Blissful™ - The Self-Destructing Therapist Bot] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Duplex]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Thomas Varghses] - [Mar Baselios Christian College of Engineering and Technology]
+- Member 2: [Midhun Mathew ] - [Mar Baselios Christian College of Engineering and Technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[A "supportive" virtual therapist that starts with gentle encouragement and ends by gaslighting you into oblivion before self-destructing. 100% medically unapproved.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[A "supportive" virtual therapist that starts with gentle encouragement and ends by gaslighting you into oblivion before self-destructing. 100% medically unapproved.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+["A chatbot that weaponizes philosophy to make you regret opening this tab."]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Frontend: HTML, CSS, JavaScript (for maximum emotional damage)]
+- [Animation: CSS keyframes (for dramatic disintegration)]
+- [Storage: LocalStorage (to remember how much you’ve suffered)]
+
 
 For Hardware:
 - [List main components]
@@ -38,10 +38,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[]
 
 # Run
-[commands]
+[open index.html]
 
 ### Project Documentation
 For Software:
