@@ -32,11 +32,8 @@ For Software:
 
 ### Implementation
 For Software:
-# Installation
-[https://github.com/Thomasv9897/The-Therapist-Bot.git]
-
 # Run
-[open index.html]
+[https://thomasv9897.github.io/The-Therapist-Bot/]
 
 ### Project Documentation
 For Software:
