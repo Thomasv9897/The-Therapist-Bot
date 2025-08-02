@@ -79,8 +79,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screen%20Recording%202025-08-02%20060117.mp4]
+working of the therapist chat bot
 
 # Additional Demos
 [Add any extra demo materials/links]
