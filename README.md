@@ -52,9 +52,8 @@ Interface of the chat bot
 ![Screenshot2](https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screenshot%202025-08-02%20053958.png)
 chats with the user and questions there on existence
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot3](https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screenshot%202025-08-02%20054027.png)
+soul meter goes 0 and gives final advice before vanishing
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
