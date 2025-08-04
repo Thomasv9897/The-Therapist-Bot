@@ -55,7 +55,8 @@ soul meter goes 0 and gives final advice before vanishing
 # Video
 [https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Screen%20Recording%202025-08-02%20060117.mp4]
 working of the therapist chat bot
-
+# Video Explanation 
+[https://github.com/Thomasv9897/The-Therapist-Bot/blob/main/Record_2025-08-04-23-16-32_40deb401b9ffe8e1df2f1cc5ba480b12.mp4  ]
 
 ## Team Contributions
 - [Thomas Varghese]: [back end coding ]
